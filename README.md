@@ -46,28 +46,28 @@ import the envirement<br />
 
 
 ### test with DDQN
-initialize hyper parameters<br />
+#### initialize hyper parameters<br />
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
 </p>
 <br />
 
-train the model<br />
+#### train the model<br />
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
 </p>
 <br />
-save the model <br />
-load it then render the envirement<br />
+#### save the model and load it <br />
+
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/147676391-fbbbc784-c94c-4840-8cea-c72f7d4bfcd4.png" />
 </p>
 <br />
 
-
+#### Test the model
 <p align="center">
 <video  width="800" src="https://user-images.githubusercontent.com/56199509/147676212-8cde2f42-1f78-437d-a305-75e4fb9144da.mp4" />
 </p>
