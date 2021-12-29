@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/56199509/147658904-81bcb85b-6d6e-4bb0-
 
 ### Libreries
 
-import numpy as np \n
-import gym \n
-import matplotlib.pyplot as plt\n
+import numpy as np /n
+import gym /n
+import matplotlib.pyplot as plt/n
 import gc\n
 import random\n
 import time\n
