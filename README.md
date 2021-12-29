@@ -11,26 +11,26 @@ https://user-images.githubusercontent.com/56199509/147658904-81bcb85b-6d6e-4bb0-
 
 ### Libreries
 
-import numpy as np /n
-import gym /n
-import matplotlib.pyplot as plt/n
-import gc\n
-import random\n
-import time\n
+import numpy as np <br />
+import gym <br />
+import matplotlib.pyplot as plt<br />
+import gc<br />
+import random<br />
+import time<br />
 
-from collections import deque\n
-from IPython.display import clear_output\n
+from collections import deque<br />
+from IPython.display import clear_output<br />
 
-from tensorflow.keras.models import Sequential, load_model\n
-from tensorflow.keras.layers import Dense\n
-from tensorflow.keras.initializers import he_normal\n
-from tensorflow.keras.optimizers import Adam , SGD\n
+from tensorflow.keras.models import Sequential, load_model<br />
+from tensorflow.keras.layers import Dense<br />
+from tensorflow.keras.initializers import he_normal<br />
+from tensorflow.keras.optimizers import Adam , SGD<br />
 
 ## How it works
-import libreries\n
-import the envirement\n
+import libreries<br />
+import the envirement<br />
 ### test with random actions
-![image](https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png)
+![image](https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png)<br />
 
 
 https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-adb7-b61f87050b91.mp4
@@ -38,12 +38,12 @@ https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-
 
 
 ### test with DDQN
-initialize hyper parameters\n
+initialize hyper parameters<br />
 
-![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)\n
+![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)<br />
 
-train the model\n
-![image](https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png)\n
+train the model<br />
+![image](https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png)<br />
 
-save the model \n
-load it then render the envirement\n
+save the model <br />
+load it then render the envirement<br />
