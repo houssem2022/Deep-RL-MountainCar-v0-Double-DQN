@@ -32,7 +32,7 @@ import the envirement<br />
 ### test with random actions
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png" />
+  <img width="500" src="https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png" />
 </p>
 
 
@@ -47,14 +47,14 @@ https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-
 initialize hyper parameters<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
+  <img width="500" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
 </p>
 <br />
 
 train the model<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
+  <img width="500" src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
 </p>
 <br />
 save the model <br />
