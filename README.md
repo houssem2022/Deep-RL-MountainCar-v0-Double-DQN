@@ -11,24 +11,24 @@ https://user-images.githubusercontent.com/56199509/147658904-81bcb85b-6d6e-4bb0-
 
 ### Libreries
 
-import numpy as np
-import gym
-import matplotlib.pyplot as plt
-import gc
-import random
-import time
+import numpy as np \n
+import gym \n
+import matplotlib.pyplot as plt\n
+import gc\n
+import random\n
+import time\n
 
-from collections import deque
-from IPython.display import clear_output
+from collections import deque\n
+from IPython.display import clear_output\n
 
-from tensorflow.keras.models import Sequential, load_model
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.initializers import he_normal
-from tensorflow.keras.optimizers import Adam , SGD
+from tensorflow.keras.models import Sequential, load_model\n
+from tensorflow.keras.layers import Dense\n
+from tensorflow.keras.initializers import he_normal\n
+from tensorflow.keras.optimizers import Adam , SGD\n
 
 ## How it works
-import libreries
-import the envirement
+import libreries\n
+import the envirement\n
 ### test with random actions
 ![image](https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png)
 
@@ -38,12 +38,12 @@ https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-
 
 
 ### test with DDQN
-initialize hyper parameters
+initialize hyper parameters\n
 
-![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)
+![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)\n
 
-train the model
-![image](https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png)
+train the model\n
+![image](https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png)\n
 
-save the model 
-load it then render the envirement
+save the model \n
+load it then render the envirement\n
