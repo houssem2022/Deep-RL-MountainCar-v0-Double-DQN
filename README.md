@@ -58,8 +58,8 @@ import the envirement<br />
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
 </p>
-<br />
-#### save the model and load it <br />
+
+#### Save the model and load it 
 
 
 <p align="center">
