@@ -30,7 +30,13 @@ from tensorflow.keras.optimizers import Adam , SGD<br />
 import libreries<br />
 import the envirement<br />
 ### test with random actions
-![image](https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png)<br />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png" />
+</p>
+
+
+<br />
 
 
 https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-adb7-b61f87050b91.mp4
@@ -40,10 +46,16 @@ https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-
 ### test with DDQN
 initialize hyper parameters<br />
 
-![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)<br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
+</p>
+<br />
 
 train the model<br />
-![image](https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png)<br />
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
+</p>
+<br />
 save the model <br />
 load it then render the envirement<br />
