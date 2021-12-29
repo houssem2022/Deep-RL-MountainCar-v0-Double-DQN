@@ -30,7 +30,12 @@ from tensorflow.keras.optimizers import Adam , SGD
 import libreries
 import the envirement
 ### test with random actions
+![image](https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png)
 ### test with DDQN
+initialize hyper parameters
+
+![image](https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png)
+
 train the model
 save the model 
 load it then render the envirement
