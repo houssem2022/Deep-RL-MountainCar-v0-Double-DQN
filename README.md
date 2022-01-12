@@ -11,21 +11,27 @@ https://user-images.githubusercontent.com/56199509/147658904-81bcb85b-6d6e-4bb0-
 
 ### Libreries
 
-import numpy as np <br />
-import gym <br />
+import numpy as np<br />
+import gym<br />
 import matplotlib.pyplot as plt<br />
 import gc<br />
 import random<br />
 import time<br />
 
-from collections import deque<br />
+from collections import deque,namedtuple<br />
 from IPython.display import clear_output<br />
 
 from tensorflow.keras.models import Sequential, load_model<br />
 from tensorflow.keras.layers import Dense<br />
 from tensorflow.keras.initializers import he_normal<br />
-from tensorflow.keras.optimizers import Adam , SGD<br />
+from tensorflow.keras.optimizers import SGD<br />
+from tensorflow.keras import models<br />
 
+import torch<br />
+import torch.nn as nn<br />
+import torch.optim as optim<br />
+import torch.nn.functional as F<br />
+import copy<br />
 ## How it works
 import libreries<br />
 import the envirement<br />
