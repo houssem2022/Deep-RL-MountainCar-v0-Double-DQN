@@ -37,10 +37,7 @@ import libreries<br />
 import the envirement<br />
 ### test with random actions
 
-<p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/149231070-2dabce42-5e1d-42c4-b513-3d8774a19962.PNG" />
-</p>
-<br />
+
 
 <p align="center">
 <video  width="800" src="https://user-images.githubusercontent.com/56199509/147673060-5ec524ca-e5e6-4ffa-adb7-b61f87050b91.mp4" />
@@ -77,7 +74,9 @@ import the envirement<br />
   <img width="800" src="https://user-images.githubusercontent.com/56199509/149231629-2a943add-c665-4bcb-bf9d-7727db4aa642.PNG" />
 </p>
 <br />
+
 ### test with Double DQN
+
 #### initialize hyper parameters<br />
 
 <p align="center">
