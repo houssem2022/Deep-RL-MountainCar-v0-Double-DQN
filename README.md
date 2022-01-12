@@ -48,9 +48,10 @@ import the envirement<br />
 #### create the Replay buffer<br />
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149232693-db88d490-f4a8-4f7d-8144-e85a10b23608.PNG" />
 </p>
 <br />
+
 
 #### create DQN class<br />
 
