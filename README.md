@@ -49,9 +49,9 @@ import the envirement<br />
 </p>
 <br />
 
+### test with DQN
 
-
-### test with DDQN
+### test with Double DQN
 #### initialize hyper parameters<br />
 
 <p align="center">
