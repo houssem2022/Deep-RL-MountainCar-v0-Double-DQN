@@ -51,25 +51,30 @@ import the envirement<br />
   <img width="800" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
 </p>
 <br />
+
 #### create DQN class<br />
+
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/149231328-121d0035-09c7-4bda-9d0c-82f708656dd9.PNG" />
 </p>
 <br />
 
 #### create agent class<br />
+
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/149231501-7f4840e9-f841-4e7d-8fe4-ed0f57db55f2.PNG" />
 </p>
 <br />
 
 #### Training<br />
+
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/149231804-c05f2c4a-ffed-4d60-a13a-a3afbb58655c.PNG" />
 </p>
 <br />
 
 #### Training<br />
+
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/56199509/149231629-2a943add-c665-4bcb-bf9d-7727db4aa642.PNG" />
 </p>
