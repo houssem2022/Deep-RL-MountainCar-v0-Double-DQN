@@ -68,10 +68,15 @@ import the envirement<br />
 
 #### Training<br />
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/149231629-2a943add-c665-4bcb-bf9d-7727db4aa642.PNG" />
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149231804-c05f2c4a-ffed-4d60-a13a-a3afbb58655c.PNG" />
 </p>
 <br />
 
+#### Training<br />
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149231629-2a943add-c665-4bcb-bf9d-7727db4aa642.PNG" />
+</p>
+<br />
 ### test with Double DQN
 #### initialize hyper parameters<br />
 
