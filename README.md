@@ -38,10 +38,8 @@ import the envirement<br />
 ### test with random actions
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/147672490-8adbad68-0caf-46a5-9e1e-255c8500242b.png" />
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149231070-2dabce42-5e1d-42c4-b513-3d8774a19962.PNG" />
 </p>
-
-
 <br />
 
 <p align="center">
@@ -50,6 +48,13 @@ import the envirement<br />
 <br />
 
 ### test with DQN
+#### create the Replay buffer<br />
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
+</p>
+<br />
+
 
 ### test with Double DQN
 #### initialize hyper parameters<br />
