@@ -80,15 +80,17 @@ import the envirement<br />
 #### initialize hyper parameters<br />
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/147672586-16c2496d-b522-4955-a4fc-c5db1eb2399d.png" />
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149232266-2c22a2f8-e51b-4cbb-b5a8-fba46286f402.PNG" />
 </p>
 <br />
+
 
 #### train the model<br />
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/56199509/147673600-9fbe0d92-55f1-4a48-b915-6456cb2cc02b.png" />
+  <img width="800" src="https://user-images.githubusercontent.com/56199509/149232351-193c1197-8256-4fb3-a171-c9ec4b550d93.PNG" />
 </p>
+
 
 #### Save the model and load it 
 
