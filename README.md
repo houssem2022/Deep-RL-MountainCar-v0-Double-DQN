@@ -82,6 +82,16 @@ import the envirement<br />
 </p>
 <br />
 
+<p align="center">
+<video  width="800" src="https://user-images.githubusercontent.com/56199509/149233494-f7ed99f4-b90d-4d9d-ad09-abfe2628a465.mp4" />
+</p>
+<br />
+
+
+
+
+
+
 ### test with Double DQN
 
 #### initialize hyper parameters<br />
